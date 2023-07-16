@@ -1,0 +1,11 @@
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\bin\Debug\CPU RAM Monitoring.exe.config
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\bin\Debug\CPU RAM Monitoring.exe
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\bin\Debug\CPU RAM Monitoring.pdb
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\obj\Debug\CPU RAM Monitoring.csproj.AssemblyReference.cache
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\obj\Debug\CPU RAM Monitoring.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\obj\Debug\CPU_RAM_Monitoring.Form1.resources
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\obj\Debug\CPU_RAM_Monitoring.Properties.Resources.resources
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\obj\Debug\CPU RAM Monitoring.csproj.GenerateResource.cache
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\obj\Debug\CPU RAM Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\obj\Debug\CPU RAM Monitoring.exe
+C:\Users\gokcer\Documents\Visual Studio 2022\Projects\CPU RAM Monitoring\CPU RAM Monitoring\obj\Debug\CPU RAM Monitoring.pdb
